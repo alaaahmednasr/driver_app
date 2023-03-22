@@ -1,0 +1,94 @@
+{
+    "HOME_SCREEN" : "This Is Only Comment",
+    "home_screen_head_text" : "إعادة توجيه التسليم - أقرب - أسرع",
+    "first_welcome_text" : "مرحبا بك في",
+    "second_welcome_text" : "تطبيق السائق",
+
+
+
+    "SPLACH_SCREEN" : "This Is Only Comment",
+    "login" : " تسجيل الدخول",
+    "signup" : "انشاء حساب جديد" ,
+
+
+
+    "LOGIN_SCREEN" : "This Is Only Comment",
+    "welcome_text" : "مرحبا بك !" ,
+    "signin_text" : "من فضلك قم بتسجيل الدخول" ,
+    "password" : "كلمه المرور" ,
+    "forget_password" : "هل نسيت كلمه المرور ؟" ,
+    "remember_me" : "الاحتفاظ بتسجيل لدخول" ,
+    "have_not_account" : "لا تمتلك حساب ؟" ,
+    "error_text" : "رقم الهاتف غير صحيح" ,
+    "password_empty" : "كلمه المرور لا يجيب ان تكون فارغه" ,
+
+
+
+    "SIGNUP_SCREEN" : "This Is Only Comment" ,
+    "create_account" : "انشاء حساب" ,
+    "phone_number_text1" : "من فضلك قم بأدخال رقم الهاتف من اجل" ,
+    "phone_number_text2" : "تلقي رمز التحويل" ,
+    "phone_number" : "رقم الهاتف" ,
+    "phone_otp" : "ارسال رمز التحويل" ,
+    "have_account" : "هل تمتلك حساب بالفعل ؟" ,
+    "signin" : "تسجيل الدخول" ,
+    "basic_data" : "البيانات الاساسيه" ,
+    "vertification" : "توثيق البيانات المدخله" ,
+    "upload" : "تحميل" ,
+    "attatchments" : "الملفات"  ,
+
+
+
+    "SIGNUP_SCREEN2" : "This Is Only Comment",
+    "verfiy_code" : "التحقق من الكود" ,
+    "message1" : "من فضلك قم بالدخول الي الرسائل & وادخل ",
+    "message2" : "رمز التحقق",
+    "verfiy" : "تحقق",
+    "have_not_recived_code" : "لم تقم بأستلام الكود ؟",
+    "send_again" : "ارسال مره اخري",
+
+
+
+    "SIGNUP_SCREEN3" : "This Is Only Comment",
+    "user_name" : "اسم المستخدم",
+    "confirm_password" : "تأكيد كلمه المرور",
+    "text1" : "بإنشاء حساب فإنك توافق " ,
+    "text2" : "علي" ,
+    "privacy" : "سياسة الخصوصية",
+    "text3" : "و" ,
+    "terms" : "وشروط الاستخدام" ,
+
+
+
+    "SIGNUP_SCREEN4" : "This Is Only Comment",
+    "welcome_name" : "مرحبا ، اسماء",
+    "first_text" : "إليك ما عليك القيام به لإعداد حسابك ",
+    "second_text" : "",
+    "national_id" : "الرقم القومي",
+    "driver_lisence" : "رخصه القياده",
+    "vehcile_lisence" : "رخصه السياره",
+    "start" : "البدء" ,
+
+
+
+    "NATIONAL_ID" : "This Is Only Comment",
+    "front" : "التقط صورة واضحة للجزء الأمامي من",
+    "back" : "التقط صورة واضحة للجزء الخلفي من",
+    "nat_id" : "الهوية الحكومية",
+    "drive_id" : "الرخصة",
+    "vehcile_id" : "رخصة السيارة",
+    "upload_photo" : "قم بتحميل الصوره",
+    "next" : "التالي" ,
+    "image" : "يجب ان تقوم بأدخال صوره",
+    "phone_used" : "رقم الهاتف مستخدم من قبل !!",
+
+
+
+    "FORGET_PASSWORD" : "This Is Only Comment" ,
+    "forget_password2" : "نسيت رقم المرور" ,
+    "create_new_password" : "إنشاء كلمة مرور جديدة" ,
+    "new_password" : "كلمة المرور الجديدة" ,
+    "change_password" : "تغيير كلمة المرور" 
+
+
+} 

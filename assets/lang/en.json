@@ -1,0 +1,93 @@
+{
+    "HOME_SCREEN" : "This Is Only Comment",
+    "home_screen_head_text" : "Redirect the Delivery - Closer - Faster",
+    "first_welcome_text" : "Welcome to the",
+    "second_welcome_text" : "Driver app",
+
+
+
+    "SPLACH_SCREEN" : "This Is Only Comment",
+    "login" : "Login",
+    "signup" : "Sign Up" ,
+
+
+
+    "LOGIN_SCREEN" : "This Is Only Comment",
+    "welcome_text" : "Welcome Back !" ,
+    "signin_text" : "Please Sign In" ,
+    "password" : "Password" ,
+    "forget_password" : "Forget Password ?" ,
+    "remember_me" : "Remember Me" ,
+    "have_not_account" : "Don't  have an account ?" ,
+    "error_text" : "Invalid Mobile Number" ,
+    "password_empty" : "Password mustn't be empty" ,
+
+
+
+    "SIGNUP_SCREEN1" : "This Is Only Comment" ,
+    "create_account" : "Create Account" ,
+    "phone_number_text1" : "Please enter your phone number to" ,
+    "phone_number_text2" : "recieve the vertification code" ,
+    "phone_number" : "Phone Number" ,
+    "phone_otp" : "Send OTP" ,
+    "have_account" : "Already have an account ?" ,
+    "signin" : "Sign In" ,
+    "basic_data" : "Basic Data" ,
+    "vertification" : "Vertification" ,
+    "upload" : "Upload" ,
+    "attatchments" : "Attatchments" ,
+
+
+
+    "SIGNUP_SCREEN2" : "This Is Only Comment",
+    "verfiy_code" : "Verfiy Code" ,
+    "message1" : "Please enter your messages & enter",
+    "message2" : "the vertification code",
+    "verfiy" : "Verfiy",
+    "have_not_recived_code" : "Haven't recieve a code ?",
+    "send_again" : "Send Again" ,
+
+
+
+    "SIGNUP_SCREEN3" : "This Is Only Comment",
+    "user_name" : "Username",
+    "confirm_password" : "Confirm Password",
+    "text1" : "By creating an account you agree" ,
+    "text2" : "to the" ,
+    "privacy" : "privacy policy",
+    "text3" : "and to the" ,
+    "terms" : "terms of use",
+
+
+
+    "SIGNUP_SCREEN4" : "This Is Only Comment",
+    "welcome_name" : "Welcome , Asmaa",
+    "first_text" : "Here's what you need to do to set up your",
+    "second_text" : "account",
+    "national_id" : "National ID",
+    "driver_lisence" : "Driver Lisence",
+    "vehcile_lisence" : "Vehcile Lisence",
+    "start" : "Start" ,
+
+
+
+    "NATIONAL_ID" : "This Is Only Comment",
+    "front" : "Take a clear photo of the front of your",
+    "back" : "Take a clear photo of the back of your",
+    "nat_id" : "government ID",
+    "drive_id" : "lisence",
+    "vehcile_id" : "vechile lisence",
+    "upload_photo" : "Upload Photo",
+    "next" : "Next" ,
+    "image" : "image must be entered" ,
+    "phone_used" : "The phone has been already taken !!",
+
+
+    "FORGET_PASSWORD" : "This Is Only Comment" ,
+    "forget_password2" : "Forget Password" ,
+    "create_new_password" : "Create New Password" ,
+    "new_password" : "New Password" ,
+    "change_password" : "Change Password" 
+
+
+} 
